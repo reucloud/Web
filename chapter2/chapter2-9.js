@@ -29,7 +29,7 @@ const result1 = num1 > 0 ? "正の数です"
 
 console.log(result1);
 
-const score = 15;
+const score = 1523;
 
 const result2 = score < 0 || score > 100 ? "不正な値です" :
                              score >= 80 ? "優秀です" :
