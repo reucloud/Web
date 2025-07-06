@@ -36,4 +36,3 @@ const result2 = score < 0 || score > 100 ? "不正な値です" :
                              score >= 60 ? "合格です" :
                              score >= 40 ? "追試対象です" : "不合格です"
 console.log(result2);
-console.log(result2);
